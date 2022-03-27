@@ -1,1 +1,1 @@
-![image](https://github.com/Klaviatur/Klaviatur/blob/main/Klaviatur.gif)
+![image](https://github.com/Klaviatur/Klaviatur/blob/main/rex.gif)
